@@ -1,0 +1,2 @@
+method,k,canonical_kmers,label_source,label_column,vocabulary_size,global_silhouette_score,min_entropy_weight,max_entropy_weight,mean_entropy_weight,median_entropy_weight,zero_weight_kmers,nonzero_weight_kmers
+exact_kWIP_entropy_weighted_inner_product_memory_safe,21,True,labels.csv,group,9910273,-0.23461263458496787,0.0,0.9991421039919088,0.39366205660562054,0.21639693245126462,662167,9248106

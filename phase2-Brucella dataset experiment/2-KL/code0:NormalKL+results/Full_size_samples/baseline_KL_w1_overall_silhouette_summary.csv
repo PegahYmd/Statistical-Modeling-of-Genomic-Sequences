@@ -1,0 +1,13 @@
+method,k,alpha,beta,vocabulary_size,zero_pct,overall_silhouette_score,named_silhouette_score
+baseline_KL_w1,15,0.001,NA,100000,61.8711,-0.33336194,nan
+baseline_KL_w1,15,0.01,NA,100000,61.8711,-0.32859754,nan
+baseline_KL_w1,15,0.1,NA,100000,61.8711,-0.31674235,nan
+baseline_KL_w1,15,1.0,NA,100000,61.8711,-0.29242026,nan
+baseline_KL_w1,21,0.001,NA,100000,78.3596,-0.30065010,nan
+baseline_KL_w1,21,0.01,NA,100000,78.3596,-0.29731424,nan
+baseline_KL_w1,21,0.1,NA,100000,78.3596,-0.29347047,nan
+baseline_KL_w1,21,1.0,NA,100000,78.3596,-0.30414573,nan
+baseline_KL_w1,31,0.001,NA,100000,79.9112,-0.28224458,nan
+baseline_KL_w1,31,0.01,NA,100000,79.9112,-0.27896371,nan
+baseline_KL_w1,31,0.1,NA,100000,79.9112,-0.27907335,nan
+baseline_KL_w1,31,1.0,NA,100000,79.9112,-0.29657544,nan

@@ -1,0 +1,5 @@
+method,k,alpha,beta,uncapped,cap_weight,vocabulary_size,zero_percentage_before_smoothing,overall_silhouette_score,weight_min,weight_max,weight_mean,negative_entries_before_cleanup,min_symmetric_score_before_cleanup,max_symmetric_score_before_cleanup
+SIWKL_inverse_G_global_beta_true_uncapped,21,0.1,1.0,True,,15321925.0,78.46875952439801,,150121.04679144386,56145271.5,31463993.091966927,0.0,0.0,33646103.24853258
+SIWKL_inverse_G_global_beta_true_uncapped,21,0.1,1.0,True,,,,0.2613469211439173,,,,,,
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,,15321925.0,78.46875952439801,,150121.04679144386,56145271.5,31463993.091966927,0.0,0.0,2648418.043245529
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,,,,0.25406185250403446,,,,,,

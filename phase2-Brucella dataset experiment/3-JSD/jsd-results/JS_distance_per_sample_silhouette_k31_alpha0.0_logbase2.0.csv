@@ -1,0 +1,30 @@
+method,k,alpha,log_base,sample,class,sample_silhouette_score,status,global_silhouette_non_singleton,species,group,group_id
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000157875.1_ASM15787v1_genomic.fa,Brucella_sp,0.17319077,clear,0.2257461,Brucella sp. 83/13,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000158995.1_ASM15899v1_genomic.fa,Brucella_sp,0.29600871,clear,0.2257461,Brucella sp. F5/99,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000163135.1_ASM16313v1_genomic.fa,Brucella_sp,0.31087577,clear,0.2257461,Brucella sp. NVSL 07-0026,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000370925.1_Bruc_sp_56_94_V1_genomic.fa,Brucella_sp,0.09412128,clear,0.2257461,Brucella sp. 56/94,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000370945.1_Bruc_sp_63_311_V1_genomic.fa,Brucella_sp,0.32612697,clear,0.2257461,Brucella sp. 63/311,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000370965.1_Bruc_sp_F23_97_V1_genomic.fa,Brucella_sp,0.38213505,clear,0.2257461,Brucella sp. F23/97,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000370985.1_Bruc_sp_F5_06_V1_genomic.fa,Brucella_sp,0.2843365,clear,0.2257461,Brucella sp. F5/06,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000371005.1_Bruc_sp_F8_99_V1_genomic.fa,Brucella_sp,0.38532171,clear,0.2257461,Brucella sp. F8/99,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000371025.1_Bruc_sp_F96_2_V1_genomic.fa,Brucella_sp,0.34513231,clear,0.2257461,Brucella sp. F96/2,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000371045.1_Bruc_sp_UK1_97_V1_genomic.fa,Brucella_sp,0.30668206,clear,0.2257461,Brucella sp. UK1/97,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000371065.1_Bruc_sp_UK40_99_V1_genomic.fa,Brucella_sp,0.38127006,clear,0.2257461,Brucella sp. UK40/99,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000480195.1_Bruc_sp_04-5288_V1_genomic.fa,Brucella_sp,0.36602006,clear,0.2257461,Brucella sp. 04-5288,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000691585.1_ASM69158v1_genomic.fa,canis,,not_computed,0.2257461,Brucella canis,canis,3
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000740135.1_ASM74013v1_genomic.fa,abortus,0.44692326,clear,0.2257461,Brucella abortus,abortus,0
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000740155.1_ASM74015v1_genomic.fa,abortus,0.42523798,clear,0.2257461,Brucella abortus,abortus,0
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000740235.1_ASM74023v1_genomic.fa,suis,,not_computed,0.2257461,Brucella suis,suis,2
+Jensen_Shannon_distance,31,0.0,2.0,GCA_000740275.1_ASM74027v1_genomic.fa,pinnipedialis,,not_computed,0.2257461,Brucella pinnipedialis,pinnipedialis,4
+Jensen_Shannon_distance,31,0.0,2.0,GCA_001307475.2_ASM130747v2_genomic.fa,melitensis,,not_computed,0.2257461,Brucella melitensis,melitensis,1
+Jensen_Shannon_distance,31,0.0,2.0,GCA_001715385.1_ASM171538v1_genomic.fa,Brucella_sp,0.35941383,clear,0.2257461,Brucella sp. 2002734562,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_001742815.1_ASM174281v1_genomic.fa,Brucella_sp,-0.0332872,possibly_misplaced,0.2257461,Brucella sp. B13-0095,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_001971625.1_ASM197162v1_genomic.fa,Brucella_sp,-0.13375709,possibly_misplaced,0.2257461,Brucella sp. 09RB8471,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_001971805.1_ASM197180v1_genomic.fa,Brucella_sp,-0.14150092,possibly_misplaced,0.2257461,Brucella sp. 09RB8910,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_009601725.1_ASM960172v1_genomic.fa,Brucella_sp,0.10601564,clear,0.2257461,Brucella sp. 2280,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_014084005.1_ASM1408400v1_genomic.fa,Brucella_sp,0.1363912,clear,0.2257461,Brucella sp. DSM 103976,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_014495905.1_ASM1449590v1_genomic.fa,Brucella_sp,0.18011116,clear,0.2257461,Brucella sp. 6810,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_015832115.1_ASM1583211v1_genomic.fa,Brucella_sp,0.03573309,weak/ambiguous,0.2257461,Brucella sp. BO2,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_900000005.1_BVF60_genomic.fa,vulpis,,not_computed,0.2257461,Brucella vulpis,vulpis,5
+Jensen_Shannon_distance,31,0.0,2.0,GCA_900092405.1_10RB9215v1_genomic.fa,Brucella_sp,0.15965806,clear,0.2257461,Brucella sp. 10RB9215,Brucella_sp,7
+Jensen_Shannon_distance,31,0.0,2.0,GCA_900095155.1_BR141012304v1_genomic.fa,inopinata,,not_computed,0.2257461,Brucella inopinata,inopinata,6

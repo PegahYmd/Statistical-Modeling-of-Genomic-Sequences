@@ -1,0 +1,4 @@
+method,k,epsilon,idf_type,vocabulary_size,zero_percentage_before_smoothing,overall_silhouette_score,idf_min,idf_max,idf_mean,negative_entries_before_cleanup,min_symmetric_score_before_cleanup,max_symmetric_score_before_cleanup
+tfidf_normalized_KL_symmetric_smooth_idf,15,1e-12,smooth,13097936,75.14597956765728,0.32241321862995725,1.0,3.70805020110221,2.688726535298445,0,0.0,12.419543713951882
+tfidf_normalized_KL_symmetric_smooth_idf,21,1e-12,smooth,15321925,78.46875952439801,0.3074150000454784,1.0,3.70805020110221,2.814520242681075,0,0.0,12.60294539958576
+tfidf_normalized_KL_symmetric_smooth_idf,31,1e-12,smooth,18152858,81.79559592935914,0.2874546826266195,1.0,3.70805020110221,2.9501070644541185,0,0.0,12.61713773210037

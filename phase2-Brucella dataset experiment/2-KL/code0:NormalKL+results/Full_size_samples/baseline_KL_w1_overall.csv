@@ -1,0 +1,3 @@
+method,k,alpha,vocabulary_size,zero_pct,overall_silhouette_score
+baseline_KL_w1,21,1.0,100000,78.3596,-0.30414573
+baseline_KL_w1,31,1.0,100000,79.9112,-0.29657544

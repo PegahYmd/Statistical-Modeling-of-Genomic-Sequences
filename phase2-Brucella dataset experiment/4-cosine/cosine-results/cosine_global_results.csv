@@ -1,0 +1,2 @@
+method,k,n_samples,sum_unique_kmers_per_sample,total_valid_kmers,chunk_size,labels_csv,sample_column,label_column,n_classes,classes,global_silhouette_score
+cosine_normal_chunked,15,29,94405547,96970532,30000,labels.csv,sample,group,8,Brucella_sp;canis;abortus;suis;pinnipedialis;melitensis;vulpis;inopinata,-0.37462826277160743

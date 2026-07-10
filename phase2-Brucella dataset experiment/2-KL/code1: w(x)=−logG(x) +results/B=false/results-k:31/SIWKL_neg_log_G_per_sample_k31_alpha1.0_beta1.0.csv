@@ -1,0 +1,30 @@
+method,k,alpha,beta,sample,class,sample_silhouette_score,status,global_silhouette_non_singleton,species,group,group_id
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000157875.1_ASM15787v1_genomic.fa,Brucella_sp,0.29363675,clear,0.33686224,Brucella sp. 83/13,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000158995.1_ASM15899v1_genomic.fa,Brucella_sp,0.45313701,clear,0.33686224,Brucella sp. F5/99,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000163135.1_ASM16313v1_genomic.fa,Brucella_sp,0.46834336,clear,0.33686224,Brucella sp. NVSL 07-0026,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000370925.1_Bruc_sp_56_94_V1_genomic.fa,Brucella_sp,0.13128346,clear,0.33686224,Brucella sp. 56/94,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000370945.1_Bruc_sp_63_311_V1_genomic.fa,Brucella_sp,0.47503712,clear,0.33686224,Brucella sp. 63/311,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000370965.1_Bruc_sp_F23_97_V1_genomic.fa,Brucella_sp,0.54157706,clear,0.33686224,Brucella sp. F23/97,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000370985.1_Bruc_sp_F5_06_V1_genomic.fa,Brucella_sp,0.42042201,clear,0.33686224,Brucella sp. F5/06,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000371005.1_Bruc_sp_F8_99_V1_genomic.fa,Brucella_sp,0.53761606,clear,0.33686224,Brucella sp. F8/99,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000371025.1_Bruc_sp_F96_2_V1_genomic.fa,Brucella_sp,0.50571235,clear,0.33686224,Brucella sp. F96/2,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000371045.1_Bruc_sp_UK1_97_V1_genomic.fa,Brucella_sp,0.46744944,clear,0.33686224,Brucella sp. UK1/97,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000371065.1_Bruc_sp_UK40_99_V1_genomic.fa,Brucella_sp,0.53429471,clear,0.33686224,Brucella sp. UK40/99,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000480195.1_Bruc_sp_04-5288_V1_genomic.fa,Brucella_sp,0.52669433,clear,0.33686224,Brucella sp. 04-5288,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000691585.1_ASM69158v1_genomic.fa,canis,,not_computed,0.33686224,Brucella canis,canis,3
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000740135.1_ASM74013v1_genomic.fa,abortus,0.70277125,clear,0.33686224,Brucella abortus,abortus,0
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000740155.1_ASM74015v1_genomic.fa,abortus,0.67967407,clear,0.33686224,Brucella abortus,abortus,0
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000740235.1_ASM74023v1_genomic.fa,suis,,not_computed,0.33686224,Brucella suis,suis,2
+SIWKL_neg_log_G,31,1.0,1.0,GCA_000740275.1_ASM74027v1_genomic.fa,pinnipedialis,,not_computed,0.33686224,Brucella pinnipedialis,pinnipedialis,4
+SIWKL_neg_log_G,31,1.0,1.0,GCA_001307475.2_ASM130747v2_genomic.fa,melitensis,,not_computed,0.33686224,Brucella melitensis,melitensis,1
+SIWKL_neg_log_G,31,1.0,1.0,GCA_001715385.1_ASM171538v1_genomic.fa,Brucella_sp,0.51907423,clear,0.33686224,Brucella sp. 2002734562,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_001742815.1_ASM174281v1_genomic.fa,Brucella_sp,-0.07024212,possibly_misplaced,0.33686224,Brucella sp. B13-0095,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_001971625.1_ASM197162v1_genomic.fa,Brucella_sp,-0.24397867,possibly_misplaced,0.33686224,Brucella sp. 09RB8471,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_001971805.1_ASM197180v1_genomic.fa,Brucella_sp,-0.25649947,possibly_misplaced,0.33686224,Brucella sp. 09RB8910,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_009601725.1_ASM960172v1_genomic.fa,Brucella_sp,0.18573063,clear,0.33686224,Brucella sp. 2280,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_014084005.1_ASM1408400v1_genomic.fa,Brucella_sp,0.23666384,clear,0.33686224,Brucella sp. DSM 103976,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_014495905.1_ASM1449590v1_genomic.fa,Brucella_sp,0.30626364,clear,0.33686224,Brucella sp. 6810,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_015832115.1_ASM1583211v1_genomic.fa,Brucella_sp,0.05814599,clear,0.33686224,Brucella sp. BO2,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_900000005.1_BVF60_genomic.fa,vulpis,,not_computed,0.33686224,Brucella vulpis,vulpis,5
+SIWKL_neg_log_G,31,1.0,1.0,GCA_900092405.1_10RB9215v1_genomic.fa,Brucella_sp,0.27502453,clear,0.33686224,Brucella sp. 10RB9215,Brucella_sp,7
+SIWKL_neg_log_G,31,1.0,1.0,GCA_900095155.1_BR141012304v1_genomic.fa,inopinata,,not_computed,0.33686224,Brucella inopinata,inopinata,6

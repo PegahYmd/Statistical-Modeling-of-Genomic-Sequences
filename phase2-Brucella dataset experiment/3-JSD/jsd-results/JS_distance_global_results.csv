@@ -1,0 +1,7 @@
+method,k,alpha,log_base,vocabulary_size,zero_percentage_before_smoothing,overall_silhouette_score,min_jsd,max_jsd,min_js_distance,max_js_distance
+Jensen_Shannon_distance,15,0.0,2.0,13097936.0,75.14597956765728,0.2532807484519574,0.0,0.9706254765906356,0.0,0.9852032666361982
+Jensen_Shannon_distance,15,0.0,2.0,,,0.2532807484063684,,,,
+Jensen_Shannon_distance,21,0.0,2.0,15321925.0,78.46875952439801,0.2421505902943263,0.0,0.9941476138314324,0.0,0.9970695130388012
+Jensen_Shannon_distance,21,0.0,2.0,,,0.2421505902980859,,,,
+Jensen_Shannon_distance,31,0.0,2.0,18152858.0,81.79559592935914,0.2257460983642485,0.0,0.9958574259060964,0.0,0.9979265633833466
+Jensen_Shannon_distance,31,0.0,2.0,,,0.2257460983730535,,,,

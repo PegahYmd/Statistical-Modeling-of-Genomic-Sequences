@@ -1,0 +1,83 @@
+nohup: ignoring input
+[23:52:41] Reading labels from ../labels.csv...
+[23:52:41] Loaded 29 labels.
+[23:52:41] Found 29 FASTA files.
+[23:52:41] Reading sequences...
+[23:52:41]   [1/29] GCA_000157875.1_ASM15787v1_genomic.fa               len=3,153,851
+[23:52:41]   [2/29] GCA_000158995.1_ASM15899v1_genomic.fa               len=3,336,716
+[23:52:41]   [3/29] GCA_000163135.1_ASM16313v1_genomic.fa               len=3,297,137
+[23:52:41]   [4/29] GCA_000370925.1_Bruc_sp_56_94_V1_genomic.fa         len=3,324,827
+[23:52:41]   [5/29] GCA_000370945.1_Bruc_sp_63_311_V1_genomic.fa        len=3,353,781
+[23:52:41]   [6/29] GCA_000370965.1_Bruc_sp_F23_97_V1_genomic.fa        len=3,312,508
+[23:52:41]   [7/29] GCA_000370985.1_Bruc_sp_F5_06_V1_genomic.fa         len=3,360,293
+[23:52:41]   [8/29] GCA_000371005.1_Bruc_sp_F8_99_V1_genomic.fa         len=3,313,861
+[23:52:41]   [9/29] GCA_000371025.1_Bruc_sp_F96_2_V1_genomic.fa         len=3,361,076
+[23:52:41]   [10/29] GCA_000371045.1_Bruc_sp_UK1_97_V1_genomic.fa        len=3,307,641
+[23:52:41]   [11/29] GCA_000371065.1_Bruc_sp_UK40_99_V1_genomic.fa       len=3,376,429
+[23:52:41]   [12/29] GCA_000480195.1_Bruc_sp_04-5288_V1_genomic.fa       len=3,306,897
+[23:52:41]   [13/29] GCA_000691585.1_ASM69158v1_genomic.fa               len=3,310,315
+[23:52:41]   [14/29] GCA_000740135.1_ASM74013v1_genomic.fa               len=3,289,500
+[23:52:41]   [15/29] GCA_000740155.1_ASM74015v1_genomic.fa               len=3,288,518
+[23:52:41]   [16/29] GCA_000740235.1_ASM74023v1_genomic.fa               len=3,319,697
+[23:52:41]   [17/29] GCA_000740275.1_ASM74027v1_genomic.fa               len=3,331,029
+[23:52:41]   [18/29] GCA_001307475.2_ASM130747v2_genomic.fa              len=3,310,789
+[23:52:41]   [19/29] GCA_001715385.1_ASM171538v1_genomic.fa              len=3,283,485
+[23:52:41]   [20/29] GCA_001742815.1_ASM174281v1_genomic.fa              len=3,153,099
+[23:52:41]   [21/29] GCA_001971625.1_ASM197162v1_genomic.fa              len=3,434,749
+[23:52:41]   [22/29] GCA_001971805.1_ASM197180v1_genomic.fa              len=3,592,978
+[23:52:41]   [23/29] GCA_009601725.1_ASM960172v1_genomic.fa              len=3,584,454
+[23:52:41]   [24/29] GCA_014084005.1_ASM1408400v1_genomic.fa             len=3,378,310
+[23:52:41]   [25/29] GCA_014495905.1_ASM1449590v1_genomic.fa             len=3,522,910
+[23:52:41]   [26/29] GCA_015832115.1_ASM1583211v1_genomic.fa             len=3,290,672
+[23:52:41]   [27/29] GCA_900000005.1_BVF60_genomic.fa                    len=3,238,137
+[23:52:42]   [28/29] GCA_900092405.1_10RB9215v1_genomic.fa               len=3,562,813
+[23:52:42]   [29/29] GCA_900095155.1_BR141012304v1_genomic.fa            len=3,442,381
+[23:52:42] Done reading.
+[23:52:42] Labels:
+[23:52:42]   GCA_000157875.1_ASM15787v1_genomic.fa               Brucella_sp
+[23:52:42]   GCA_000158995.1_ASM15899v1_genomic.fa               Brucella_sp
+[23:52:42]   GCA_000163135.1_ASM16313v1_genomic.fa               Brucella_sp
+[23:52:42]   GCA_000370925.1_Bruc_sp_56_94_V1_genomic.fa         Brucella_sp
+[23:52:42]   GCA_000370945.1_Bruc_sp_63_311_V1_genomic.fa        Brucella_sp
+[23:52:42]   GCA_000370965.1_Bruc_sp_F23_97_V1_genomic.fa        Brucella_sp
+[23:52:42]   GCA_000370985.1_Bruc_sp_F5_06_V1_genomic.fa         Brucella_sp
+[23:52:42]   GCA_000371005.1_Bruc_sp_F8_99_V1_genomic.fa         Brucella_sp
+[23:52:42]   GCA_000371025.1_Bruc_sp_F96_2_V1_genomic.fa         Brucella_sp
+[23:52:42]   GCA_000371045.1_Bruc_sp_UK1_97_V1_genomic.fa        Brucella_sp
+[23:52:42]   GCA_000371065.1_Bruc_sp_UK40_99_V1_genomic.fa       Brucella_sp
+[23:52:42]   GCA_000480195.1_Bruc_sp_04-5288_V1_genomic.fa       Brucella_sp
+[23:52:42]   GCA_000691585.1_ASM69158v1_genomic.fa               canis
+[23:52:42]   GCA_000740135.1_ASM74013v1_genomic.fa               abortus
+[23:52:42]   GCA_000740155.1_ASM74015v1_genomic.fa               abortus
+[23:52:42]   GCA_000740235.1_ASM74023v1_genomic.fa               suis
+[23:52:42]   GCA_000740275.1_ASM74027v1_genomic.fa               pinnipedialis
+[23:52:42]   GCA_001307475.2_ASM130747v2_genomic.fa              melitensis
+[23:52:42]   GCA_001715385.1_ASM171538v1_genomic.fa              Brucella_sp
+[23:52:42]   GCA_001742815.1_ASM174281v1_genomic.fa              Brucella_sp
+[23:52:42]   GCA_001971625.1_ASM197162v1_genomic.fa              Brucella_sp
+[23:52:42]   GCA_001971805.1_ASM197180v1_genomic.fa              Brucella_sp
+[23:52:42]   GCA_009601725.1_ASM960172v1_genomic.fa              Brucella_sp
+[23:52:42]   GCA_014084005.1_ASM1408400v1_genomic.fa             Brucella_sp
+[23:52:42]   GCA_014495905.1_ASM1449590v1_genomic.fa             Brucella_sp
+[23:52:42]   GCA_015832115.1_ASM1583211v1_genomic.fa             Brucella_sp
+[23:52:42]   GCA_900000005.1_BVF60_genomic.fa                    vulpis
+[23:52:42]   GCA_900092405.1_10RB9215v1_genomic.fa               Brucella_sp
+[23:52:42]   GCA_900095155.1_BR141012304v1_genomic.fa            inopinata
+[23:52:42] 
+K = 15
+[23:52:42] Counting k-mers...
+[23:52:43]   [1/29] GCA_000157875.1_ASM15787v1_genomic.fa               unique=3,065,091  (1.5s)
+[23:52:45]   [2/29] GCA_000158995.1_ASM15899v1_genomic.fa               unique=3,239,828  (1.6s)
+[23:52:46]   [3/29] GCA_000163135.1_ASM16313v1_genomic.fa               unique=3,197,376  (1.5s)
+[23:52:48]   [4/29] GCA_000370925.1_Bruc_sp_56_94_V1_genomic.fa         unique=3,224,284  (1.6s)
+[23:52:49]   [5/29] GCA_000370945.1_Bruc_sp_63_311_V1_genomic.fa        unique=3,288,117  (1.6s)
+[23:52:51]   [6/29] GCA_000370965.1_Bruc_sp_F23_97_V1_genomic.fa        unique=3,236,468  (1.6s)
+[23:52:53]   [7/29] GCA_000370985.1_Bruc_sp_F5_06_V1_genomic.fa         unique=3,247,058  (1.6s)
+[23:52:54]   [8/29] GCA_000371005.1_Bruc_sp_F8_99_V1_genomic.fa         unique=3,240,246  (1.8s)
+[23:52:58]   [9/29] GCA_000371025.1_Bruc_sp_F96_2_V1_genomic.fa         unique=3,240,775  (3.4s)
+[23:53:01]   [10/29] GCA_000371045.1_Bruc_sp_UK1_97_V1_genomic.fa        unique=3,234,719  (3.3s)
+[23:53:04]   [11/29] GCA_000371065.1_Bruc_sp_UK40_99_V1_genomic.fa       unique=3,302,235  (3.4s)
+[23:53:08]   [12/29] GCA_000480195.1_Bruc_sp_04-5288_V1_genomic.fa       unique=3,237,336  (3.4s)
+[23:53:10]   [13/29] GCA_000691585.1_ASM69158v1_genomic.fa               unique=3,241,783  (1.8s)
+[23:53:11]   [14/29] GCA_000740135.1_ASM74013v1_genomic.fa               unique=3,214,868  (1.6s)
+[23:53:16]   [15/29] GCA_000740155.1_ASM74015v1_genomic.fa               unique=3,220,027  (5.0s)

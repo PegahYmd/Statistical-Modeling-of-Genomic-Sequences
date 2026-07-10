@@ -1,0 +1,30 @@
+method,k,alpha,beta,uncapped,sample,class,sample_silhouette_score,status,global_silhouette_non_singleton,species,group,group_id
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000157875.1_ASM15787v1_genomic.fa,Brucella_sp,0.19691986,clear,0.25406185,Brucella sp. 83/13,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000158995.1_ASM15899v1_genomic.fa,Brucella_sp,0.31196107,clear,0.25406185,Brucella sp. F5/99,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000163135.1_ASM16313v1_genomic.fa,Brucella_sp,0.32135938,clear,0.25406185,Brucella sp. NVSL 07-0026,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000370925.1_Bruc_sp_56_94_V1_genomic.fa,Brucella_sp,-0.0379666,possibly_misplaced,0.25406185,Brucella sp. 56/94,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000370945.1_Bruc_sp_63_311_V1_genomic.fa,Brucella_sp,0.3304248,clear,0.25406185,Brucella sp. 63/311,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000370965.1_Bruc_sp_F23_97_V1_genomic.fa,Brucella_sp,0.39916944,clear,0.25406185,Brucella sp. F23/97,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000370985.1_Bruc_sp_F5_06_V1_genomic.fa,Brucella_sp,0.28054416,clear,0.25406185,Brucella sp. F5/06,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000371005.1_Bruc_sp_F8_99_V1_genomic.fa,Brucella_sp,0.39525077,clear,0.25406185,Brucella sp. F8/99,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000371025.1_Bruc_sp_F96_2_V1_genomic.fa,Brucella_sp,0.3680224,clear,0.25406185,Brucella sp. F96/2,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000371045.1_Bruc_sp_UK1_97_V1_genomic.fa,Brucella_sp,0.32695979,clear,0.25406185,Brucella sp. UK1/97,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000371065.1_Bruc_sp_UK40_99_V1_genomic.fa,Brucella_sp,0.38686742,clear,0.25406185,Brucella sp. UK40/99,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000480195.1_Bruc_sp_04-5288_V1_genomic.fa,Brucella_sp,0.38159695,clear,0.25406185,Brucella sp. 04-5288,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000691585.1_ASM69158v1_genomic.fa,canis,,not_computed,0.25406185,Brucella canis,canis,3
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000740135.1_ASM74013v1_genomic.fa,abortus,0.74436968,clear,0.25406185,Brucella abortus,abortus,0
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000740155.1_ASM74015v1_genomic.fa,abortus,0.72869942,clear,0.25406185,Brucella abortus,abortus,0
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000740235.1_ASM74023v1_genomic.fa,suis,,not_computed,0.25406185,Brucella suis,suis,2
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_000740275.1_ASM74027v1_genomic.fa,pinnipedialis,,not_computed,0.25406185,Brucella pinnipedialis,pinnipedialis,4
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_001307475.2_ASM130747v2_genomic.fa,melitensis,,not_computed,0.25406185,Brucella melitensis,melitensis,1
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_001715385.1_ASM171538v1_genomic.fa,Brucella_sp,0.36994607,clear,0.25406185,Brucella sp. 2002734562,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_001742815.1_ASM174281v1_genomic.fa,Brucella_sp,-0.04894035,possibly_misplaced,0.25406185,Brucella sp. B13-0095,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_001971625.1_ASM197162v1_genomic.fa,Brucella_sp,-0.17404925,possibly_misplaced,0.25406185,Brucella sp. 09RB8471,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_001971805.1_ASM197180v1_genomic.fa,Brucella_sp,-0.17455058,possibly_misplaced,0.25406185,Brucella sp. 09RB8910,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_009601725.1_ASM960172v1_genomic.fa,Brucella_sp,0.12971378,clear,0.25406185,Brucella sp. 2280,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_014084005.1_ASM1408400v1_genomic.fa,Brucella_sp,0.16814621,clear,0.25406185,Brucella sp. DSM 103976,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_014495905.1_ASM1449590v1_genomic.fa,Brucella_sp,0.21116419,clear,0.25406185,Brucella sp. 6810,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_015832115.1_ASM1583211v1_genomic.fa,Brucella_sp,0.04272953,weak/ambiguous,0.25406185,Brucella sp. BO2,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_900000005.1_BVF60_genomic.fa,vulpis,,not_computed,0.25406185,Brucella vulpis,vulpis,5
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_900092405.1_10RB9215v1_genomic.fa,Brucella_sp,0.18508444,clear,0.25406185,Brucella sp. 10RB9215,Brucella_sp,7
+SIWKL_inverse_G_global_beta_true_uncapped,21,1.0,1.0,True,GCA_900095155.1_BR141012304v1_genomic.fa,inopinata,,not_computed,0.25406185,Brucella inopinata,inopinata,6

@@ -1,0 +1,2 @@
+method,k,alpha,vocabulary_size,overall_silhouette_score
+baseline_KL_disk_sparse,15,0.1,13097936,-0.02707539
