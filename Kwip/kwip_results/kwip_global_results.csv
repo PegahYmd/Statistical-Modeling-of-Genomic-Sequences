@@ -1,0 +1,4 @@
+method,k,canonical_kmers,vocabulary_size,global_silhouette_score,min_entropy_weight,max_entropy_weight,mean_entropy_weight,median_entropy_weight,zero_weight_kmers,nonzero_weight_kmers
+exact_kWIP_entropy_weighted_inner_product,15,True,192910,0.038505256300798076,0.0,1.0,0.02755455037902706,0.0,182060,10850
+exact_kWIP_entropy_weighted_inner_product,21,True,214589,0.04530718532847532,0.0,1.0,0.03715031477315176,0.0,198354,16235
+exact_kWIP_entropy_weighted_inner_product,31,True,234545,0.05425743630273714,0.0,1.0,0.052225828805075154,0.0,209686,24859

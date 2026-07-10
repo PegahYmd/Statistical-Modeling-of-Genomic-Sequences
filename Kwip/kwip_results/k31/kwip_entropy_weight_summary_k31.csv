@@ -1,0 +1,2 @@
+k,canonical_kmers,vocabulary_size,min_entropy_weight,max_entropy_weight,mean_entropy_weight,median_entropy_weight,zero_weight_kmers,nonzero_weight_kmers
+31,True,234545,0.0,1.0,0.052225828805075154,0.0,209686,24859
