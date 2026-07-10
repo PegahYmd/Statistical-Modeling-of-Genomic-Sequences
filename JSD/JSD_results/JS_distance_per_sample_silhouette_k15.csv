@@ -1,0 +1,11 @@
+sample,label,silhouette_score
+sample01.functional,functional,-0.0038061261060865098
+sample02.functional,functional,-0.004831298881251621
+sample03.functional,functional,-0.005900037454261327
+sample04.functional,functional,0.0008213243516729648
+sample05.functional,functional,-0.004000014940162018
+sample06.pathological,pathological,0.04938071379035045
+sample07.pathological,pathological,0.05280184659455862
+sample08.pathological,pathological,0.0529902788624739
+sample09.pathological,pathological,0.053380298906492415
+sample10.pathological,pathological,0.04815505962305062
