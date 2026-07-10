@@ -1,0 +1,11 @@
+sample,class,sequence_length
+sample01.functional,functional,227893
+sample02.functional,functional,227876
+sample03.functional,functional,227893
+sample04.functional,functional,227892
+sample05.functional,functional,227868
+sample06.pathological,pathological,227867
+sample07.pathological,pathological,227884
+sample08.pathological,pathological,227889
+sample09.pathological,pathological,227909
+sample10.pathological,pathological,227878
